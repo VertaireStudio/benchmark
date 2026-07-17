@@ -18,7 +18,7 @@
 #include <string>
 #include <vector>
 
-#include "benchmark/types.h"
+#include "types.h"
 
 namespace benchmark {
 

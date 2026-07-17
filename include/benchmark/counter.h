@@ -23,8 +23,8 @@
 #include <map>
 #include <string>
 
-#include "benchmark/macros.h"
-#include "benchmark/types.h"
+#include "macros.h"
+#include "types.h"
 
 namespace benchmark {
 

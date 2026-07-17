@@ -23,7 +23,7 @@
 #include <string>
 #include <vector>
 
-#include "benchmark/macros.h"
+#include "macros.h"
 
 namespace benchmark {
 

@@ -24,10 +24,10 @@
 #include <string>
 #include <vector>
 
-#include "benchmark/counter.h"
-#include "benchmark/macros.h"
-#include "benchmark/statistics.h"
-#include "benchmark/types.h"
+#include "counter.h"
+#include "macros.h"
+#include "statistics.h"
+#include "types.h"
 
 namespace benchmark {
 

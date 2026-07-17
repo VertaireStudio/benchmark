@@ -21,7 +21,7 @@
 #include <memory>
 #include <string>
 
-#include "benchmark/export.h"
+#include "export.h"
 
 namespace benchmark {
 

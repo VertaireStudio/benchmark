@@ -15,8 +15,8 @@
 #ifndef BENCHMARK_REGISTRATION_H_
 #define BENCHMARK_REGISTRATION_H_
 
-#include "benchmark/benchmark_api.h"
-#include "benchmark/macros.h"
+#include "benchmark_api.h"
+#include "macros.h"
 
 #if defined(__clang__)
 #define BENCHMARK_DISABLE_COUNTER_WARNING                            \
